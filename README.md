@@ -6,7 +6,7 @@ Adoro trabalhar com diferentes linguagens e ferramentas, como Python 🐍, SQL �
 
 ### 🎯 Sobre mim
 - 🔭 Atualmente, estou trabalhando em projetos pessoais e corporativos.
-- 🌱 Sempre em busca de aprender e me aperfeiçoar meus conhecimentos em tecnologias.
+- 🌱 Sempre em busca de aprender e aperfeiçoar meus conhecimentos em tecnologias.
 - 🤝 Estou disponível para colaborar em projetos interessantes e desafiadores.
 - 🎯 Meu objetivo é utilizar minha experiência e conhecimento para desenvolver soluções inovadoras.
 
