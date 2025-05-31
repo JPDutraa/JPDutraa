@@ -1,18 +1,27 @@
-# 👋 Olá, mundo! Eu sou o João Pedro Dutra!
+# 👋 Olá! Eu sou o João Pedro Dutra
 
-## Bem-vindo(a) ao meu perfil no GitHub!
+Bem-vindo ao meu perfil no GitHub!
+
+---
+
+🚀 **Sobre mim**
+
 Sou desenvolvedor fullstack com experiência em backend, frontend, mobile e automação. Gosto de criar soluções práticas, bem construídas e que funcionem na vida real.
 
 ### ⚙ Tecnologias que trabalho:
-Backend: Python (Django, FastAPI), Kotlin (Spring Boot), Node.js
-Frontend: React.js, React Native (TypeScript), Flutter
-Banco de Dados: PostgreSQL, Supabase, MySQL
-Outros: Bots de trading (Binance, MT5), automações web (Selenium), integrações API, geração de relatórios, webhooks, Discord bots.
+- **Backend**: Python (Django, FastAPI), Kotlin (Spring Boot), Node.js
+- **Frontend**: React.js, React Native (TypeScript), Flutter
+- **Banco de Dados**: PostgreSQL, Supabase, MySQL
+- **Outros**: Bots de trading (Binance, MT5), automações web (Selenium), integrações API, geração de relatórios, webhooks, Discord bots.
 
-### 🎯 Atualmente focado em:
-Sistemas fullstack com React
-Projetos mobile e automação de processos
-Análise de dados e trading algorítmico
+---
+
+🎯 **Atualmente focado em:**
+- Sistemas fullstack com Supabase e React
+- Projetos mobile e automação de processos
+- Análise de dados e trading algorítmico
+
+---
 
 ### 📊 Estatísticas do GitHub
  <div>
