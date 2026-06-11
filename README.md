@@ -11,7 +11,7 @@ Sou desenvolvedor fullstack com experiência em backend, frontend, mobile e auto
 ### ⚙ Tecnologias que trabalho:
 - **Backend**: Python (Django, FastAPI), Kotlin (Spring Boot), Node.js
 - **Frontend**: React.js, React Native (TypeScript), Flutter
-- **Banco de Dados**: PostgreSQL, Supabase, MySQL
+- **Banco de Dados**: PostgreSQL, MySQL
 - **Outros**: Bots de trading (Binance, MT5), automações web (Selenium), integrações API, geração de relatórios, webhooks, Discord bots.
 
 ---
