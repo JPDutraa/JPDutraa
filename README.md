@@ -39,8 +39,8 @@ Também desenvolvo sistemas corporativos sob NDA: plataforma de inspeções em c
 ### Estatísticas
 
 <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jpdutraa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpdutraa&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Top languages"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jpdutraa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub stats"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jpdutraa&layout=compact&langs_count=10&theme=github_dark&hide_border=true" alt="Top languages"/>
 </div>
 
 ### Contato
