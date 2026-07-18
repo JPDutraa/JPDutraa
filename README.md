@@ -1,6 +1,6 @@
 # João Pedro Dutra
 
-**Desenvolvedor Full Stack · Analista de TI | Desenvolvimento @ PROGEN**
+**Desenvolvedor Full Stack · Analista de TI | Desenvolvimento**
 
 Desenvolvo aplicações corporativas de ponta a ponta: levantamento de regra de negócio, banco de dados, API, interface web e mobile, automação e indicadores. Gosto de soluções que funcionam na vida real, com código tipado, documentado e em produção.
 
